@@ -3,7 +3,7 @@ A faster than realtime video summarization algorithm
 
 # Citation
 If case that you use this source code. Please [cite this paper](http://ieeexplore.ieee.org/document/6746822/)
-'''
+```
 @INPROCEEDINGS{6746822, 
 author={J. Iparraguirre and C. Delrieux}, 
 booktitle={2013 IEEE International Symposium on Multimedia}, 
@@ -16,4 +16,4 @@ keywords={feature extraction;object tracking;video signal processing;digital vid
 doi={10.1109/ISM.2013.70}, 
 ISSN={}, 
 month={Dec},}
-'''
+```
