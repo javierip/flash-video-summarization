@@ -39,12 +39,14 @@ Usage: flash_summ [params]
 
 Example of usage:
 
-```
+
 ./flash_summ -i=../../data/v21.mpg -o=../../output/v21 -s=0.4 -n=0.96 -d=0.25 -t=30 -e=3
+
 
 
 # Citation
 If case that you use this source code. Please [cite this paper](http://ieeexplore.ieee.org/document/6746822/)
+
 ```
 @INPROCEEDINGS{6746822, 
 author={J. Iparraguirre and C. Delrieux}, 
