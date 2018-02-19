@@ -10,7 +10,7 @@ $ run.sh
 
 # Tested enviroments
 * Linux Mint 18 (x64)
-* OpenCV 3.0.0
+* OpenCV 3.x (Required, check your distribution for installation)
 
 
 ## Available options:
