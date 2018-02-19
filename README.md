@@ -1,14 +1,14 @@
 # Flash Video Summarization
 A faster than realtime video summarization algorithm
-#Compile from source:
+# Compile from source:
 ```
 $ git clone https://github.com/javierip/flash-video-summarization.git
 $ cd flash-video-summarization
 $ cd source
 $ run.sh
+```
 
-
-## Tested enviroments
+# Tested enviroments
 * Linux Mint 18 (x64)
 * OpenCV 3.0.0
 
